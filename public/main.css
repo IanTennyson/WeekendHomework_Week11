@@ -1,0 +1,20 @@
+img {
+  height: 20em;
+  width: 20em;
+}
+
+input {
+  height: 2em;
+  width: 20em;
+}
+
+div {
+  background-color: green;
+}
+
+ol {
+  float: right;
+  width: 20em;
+  height: 5em;
+}
+
